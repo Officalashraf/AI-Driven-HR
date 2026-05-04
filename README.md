@@ -24,3 +24,4 @@ Ein hochmodernes System für das Personalwesen, das maschinelles Lernen und loka
 1. Repository klonen:
    ```bash
    git clone [https://github.com/Officalashraf/AI-HR-Intelligence-Suite.git](https://github.com/Officalashraf/AI-HR-Intelligence-Suite.git)
+https://ai-driven-hr-8m3j9zwtwszhieg3otubqh.streamlit.app/
